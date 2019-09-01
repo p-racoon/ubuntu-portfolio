@@ -1,0 +1,10 @@
+.LockScreen {
+  background-image: url("/images/BackgroundImages/Disco-Dingo_WP_4096x2304.jpg");
+  background-position: center;
+  background-size: 100%;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}

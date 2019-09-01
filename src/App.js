@@ -1,10 +1,11 @@
-import React from 'react';
+import React from "react";
+import LockScreen from "./components/LockScreen";
 
 function App() {
   return (
-    <div>
-      <h1>React App</h1>
-    </div>
+    <>
+      <LockScreen />
+    </>
   );
 }
 
